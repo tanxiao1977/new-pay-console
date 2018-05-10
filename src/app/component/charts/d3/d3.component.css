@@ -1,0 +1,16 @@
+.bar {
+    fill: steelblue;
+    fill-opacity: .9;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis--x path {
+  display: none;
+}
+#bar{
+	width:500px;
+	height:500px;
+}
